@@ -23,6 +23,12 @@ Download native packages from the matching GitHub Release assets:
 - `juhex-native-linux-x64-musl-baseline-1.0.18.tar.gz`
 - `juhex-native-linux-arm64-musl-1.0.18.tar.gz`
 
+## Articles
+
+Public articles and product notes are available under:
+
+https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/tree/main/docs/articles
+
 ## Verify Downloads
 
 Use the checksum file for the same release:
