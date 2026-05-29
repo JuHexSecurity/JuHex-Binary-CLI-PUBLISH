@@ -1,0 +1,43 @@
+# Ignore binary release payloads in git. Upload these through GitHub Releases.
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.msi
+*.exe
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Secrets and private config.
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*token*
+*secret*
+*credential*
+
+# Databases, logs, caches, and local scratch files.
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.bak
+.cache/
+tmp/
+temp/
+
+# Internal/private working material. Keep public docs under docs/.
+internal/
+private/
+_private/
+_private_docs/
+公司资料/
