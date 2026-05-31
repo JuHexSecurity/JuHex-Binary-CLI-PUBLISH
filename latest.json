@@ -1,39 +1,39 @@
 {
-  "version": "1.0.20",
-  "tag": "v1.0.20",
-  "release_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/tag/v1.0.20",
+  "version": "1.0.21",
+  "tag": "v1.0.21",
+  "release_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/tag/v1.0.21",
   "latest_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/latest",
   "source_repository": "https://github.com/JuHexSecurity/JuHex-Binary-CLI",
   "assets": [
     {
-      "name": "juhex-native-win-x64-1.0.20.zip",
+      "name": "juhex-native-win-x64-1.0.21.zip",
       "platform": "win-x64",
-      "sha256": "a52e2d7443d41be4028eba2b7512dd1b2d42394a02900ee94ed64ea0755b3c32"
+      "sha256": "e52a884c65186141888319fa3f920d1e85848dd70cb2fbb7befa06a9409f23ce"
     },
     {
-      "name": "juhex-native-macos-arm64-1.0.20.tar.gz",
+      "name": "juhex-native-macos-arm64-1.0.21.tar.gz",
       "platform": "macos-arm64",
-      "sha256": "f65750e2ea3faecdd0e12343d608755ff2ad858b12bd69c06e11c355d2aa512a"
+      "sha256": "1594c4fa13dc3230e36ec04926e3e96e4b2ea3d6f126ae3ec15d280987523c28"
     },
     {
-      "name": "juhex-native-macos-x64-1.0.20.tar.gz",
+      "name": "juhex-native-macos-x64-1.0.21.tar.gz",
       "platform": "macos-x64",
-      "sha256": "f4c00e66fa41266ae0125def51aeff99846f476827339e09641ed7575bf392f3"
+      "sha256": "ff5f76a6afdb66f9b01dfbb7c59f5be919386a726190e63048a50086caf7b932"
     },
     {
-      "name": "juhex-native-linux-x64-baseline-glibc-1.0.20.tar.gz",
+      "name": "juhex-native-linux-x64-baseline-glibc-1.0.21.tar.gz",
       "platform": "linux-x64-baseline-glibc",
-      "sha256": "097faf607b2c7839e669b2bdb4d503547932beb2da9431bf967d4e9da8c7c851"
+      "sha256": "8e3114b46c2a78de52c60e6691bbc13ec2e5bd10bcf942f1540dd949db850121"
     },
     {
-      "name": "juhex-native-linux-x64-musl-baseline-1.0.20.tar.gz",
+      "name": "juhex-native-linux-x64-musl-baseline-1.0.21.tar.gz",
       "platform": "linux-x64-musl-baseline",
-      "sha256": "62367edc3135ee80abf6d63301f9fbe7117bbbe3b14b4d4c91e21e7417ccc630"
+      "sha256": "099debb538d3a507b0045030f291f4b928d90e11e01378fb646685b4b038fe5a"
     },
     {
-      "name": "juhex-native-linux-arm64-musl-1.0.20.tar.gz",
+      "name": "juhex-native-linux-arm64-musl-1.0.21.tar.gz",
       "platform": "linux-arm64-musl",
-      "sha256": "b8a2a3a3daa5d89fadc4aa1276669acbf94c2bbca47cc78e8e26f5ba99ef249f"
+      "sha256": "1dc1293be9858e0bbf210bf0a437b15ac54ff0a420980aa637bbdd8c1cef81f3"
     }
   ]
 }
