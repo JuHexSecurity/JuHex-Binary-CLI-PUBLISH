@@ -10,18 +10,17 @@ Latest release page:
 
 https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/latest
 
-Current prepared version: `v1.0.21`.
+Current prepared version: `v1.0.22`.
 
 ## Downloads
 
 Download native packages from the matching GitHub Release assets:
 
-- `juhex-native-win-x64-1.0.21.zip`
-- `juhex-native-macos-arm64-1.0.21.tar.gz`
-- `juhex-native-macos-x64-1.0.21.tar.gz`
-- `juhex-native-linux-x64-baseline-glibc-1.0.21.tar.gz`
-- `juhex-native-linux-x64-musl-baseline-1.0.21.tar.gz`
-- `juhex-native-linux-arm64-musl-1.0.21.tar.gz`
+- `juhex-native-win-x64-1.0.22.zip`
+- `juhex-native-macos-arm64-1.0.22.tar.gz`
+- `juhex-native-macos-x64-1.0.22.tar.gz`
+- `juhex-native-linux-x64-baseline-glibc-1.0.22.tar.gz`
+- `juhex-native-linux-arm64-musl-1.0.22.tar.gz`
 
 ## Articles
 
@@ -40,10 +39,10 @@ sha256sum -c SHA256SUMS.txt
 On Windows PowerShell:
 
 ```powershell
-Get-FileHash .\juhex-native-win-x64-1.0.21.zip -Algorithm SHA256
+Get-FileHash .\juhex-native-win-x64-1.0.22.zip -Algorithm SHA256
 ```
 
-Compare the output with `checksums/v1.0.21/SHA256SUMS.txt` or the `SHA256SUMS.txt` release asset.
+Compare the output with `checksums/v1.0.22/SHA256SUMS.txt` or the `SHA256SUMS.txt` release asset.
 
 ## Source Repository
 
