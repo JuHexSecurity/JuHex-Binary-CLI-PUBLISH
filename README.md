@@ -10,17 +10,17 @@ Latest release page:
 
 https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/latest
 
-Current prepared version: `v1.0.23`.
+Current prepared version: `v1.0.24`.
 
 ## Downloads
 
 Download native packages from the matching GitHub Release assets:
 
-- `juhex-native-win-x64-1.0.23.zip`
-- `juhex-native-macos-arm64-1.0.23.tar.gz`
-- `juhex-native-macos-x64-1.0.23.tar.gz`
-- `juhex-native-linux-x64-baseline-glibc-1.0.23.tar.gz`
-- `juhex-native-linux-arm64-musl-1.0.23.tar.gz`
+- `juhex-native-win-x64-1.0.24.zip`
+- `juhex-native-macos-arm64-1.0.24.tar.gz`
+- `juhex-native-macos-x64-1.0.24.tar.gz`
+- `juhex-native-linux-x64-baseline-glibc-1.0.24.tar.gz`
+- `juhex-native-linux-arm64-musl-1.0.24.tar.gz`
 
 ## Articles
 
@@ -42,7 +42,7 @@ On Windows PowerShell:
 Get-FileHash .\juhex-native-win-x64-1.0.23.zip -Algorithm SHA256
 ```
 
-Compare the output with `checksums/v1.0.23/SHA256SUMS.txt` or the `SHA256SUMS.txt` release asset.
+Compare the output with `checksums/v1.0.24/SHA256SUMS.txt` or the `SHA256SUMS.txt` release asset.
 
 ## Source Repository
 
