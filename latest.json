@@ -1,34 +1,34 @@
 {
-  "version": "1.0.24",
-  "tag": "v1.0.24",
-  "release_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/tag/v1.0.24",
+  "version": "1.1.0",
+  "tag": "v1.1.0",
+  "release_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/tag/v1.1.0",
   "latest_url": "https://github.com/JuHexSecurity/JuHex-Binary-CLI-PUBLISH/releases/latest",
   "source_repository": "https://github.com/JuHexSecurity/JuHex-Binary-CLI",
   "assets": [
     {
-      "name": "juhex-native-win-x64-1.0.24.zip",
+      "name": "juhex-native-win-x64-1.1.0.zip",
       "platform": "win-x64",
-      "sha256": "d907bf0a577ff69509cf3cf0e4aa657dee9c5277a13165545cab7fb5574bb2cf"
+      "sha256": "017d62e69a626c5e84ab3b820ede4efc6e38a25abcce4ef466614113c565f91f"
     },
     {
-      "name": "juhex-native-macos-arm64-1.0.24.tar.gz",
+      "name": "juhex-native-macos-arm64-1.1.0.tar.gz",
       "platform": "macos-arm64",
-      "sha256": "46df82e3d86951a3f10bd905f15e958b01c42cab40be331aed0cce2c82d6f30a"
+      "sha256": "13b49fae37f4009b0a6782b10ae09fef721c4b59e088a816563ba6a845bb221c"
     },
     {
-      "name": "juhex-native-macos-x64-1.0.24.tar.gz",
+      "name": "juhex-native-macos-x64-1.1.0.tar.gz",
       "platform": "macos-x64",
-      "sha256": "2a0cc103e67ea271f58ac10e57267fb6ecb4e05caeb0d3b221834677ab2c9ba2"
+      "sha256": "2a244760b7e5fc541c11b27e42d3bd2f89f5bdfd9b379627df0e33abca14c085"
     },
     {
-      "name": "juhex-native-linux-x64-baseline-glibc-1.0.24.tar.gz",
+      "name": "juhex-native-linux-x64-baseline-glibc-1.1.0.tar.gz",
       "platform": "linux-x64-baseline-glibc",
-      "sha256": "8a78714b16fea0f32785d7bf773216e0dd25dcb68a2415691eadae3a671b70b4"
+      "sha256": "67757052c8890bde21003df59162a865f45d9de338c37490c6afc0617e9b002e"
     },
     {
-      "name": "juhex-native-linux-arm64-musl-1.0.24.tar.gz",
+      "name": "juhex-native-linux-arm64-musl-1.1.0.tar.gz",
       "platform": "linux-arm64-musl",
-      "sha256": "c3cc9552bf65e544618a2e2ffbc2e7ce1469e1af5dae09ae950ba4bd0ba95603"
+      "sha256": "10772ce8a331e0b49e83db579b757621c64d6d7f921d5ace71bf389c0f7053ec"
     }
   ]
 }

@@ -1,0 +1,5 @@
+017d62e69a626c5e84ab3b820ede4efc6e38a25abcce4ef466614113c565f91f  juhex-native-win-x64-1.1.0.zip
+13b49fae37f4009b0a6782b10ae09fef721c4b59e088a816563ba6a845bb221c  juhex-native-macos-arm64-1.1.0.tar.gz
+2a244760b7e5fc541c11b27e42d3bd2f89f5bdfd9b379627df0e33abca14c085  juhex-native-macos-x64-1.1.0.tar.gz
+67757052c8890bde21003df59162a865f45d9de338c37490c6afc0617e9b002e  juhex-native-linux-x64-baseline-glibc-1.1.0.tar.gz
+10772ce8a331e0b49e83db579b757621c64d6d7f921d5ace71bf389c0f7053ec  juhex-native-linux-arm64-musl-1.1.0.tar.gz
